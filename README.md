@@ -1,2 +1,21 @@
-# job-portal-system
-A secure and scalable Job Portal System developed using Java, Node.js, HTML, CSS, JavaScript and SQL, supporting job posting and application features.
+# Job Portal System
+
+## Description
+A full-stack job portal application for job seekers and recruiters.
+
+## Technologies Used
+- Java  
+- HTML  
+- CSS  
+- JavaScript  
+- Node.js  
+- SQL (DB Cipher)  
+
+## Features
+- User registration and login  
+- Job posting system  
+- Job application functionality  
+- Secure data handling  
+
+## Purpose
+This project was developed as a final year diploma project to understand real-world web application development.
